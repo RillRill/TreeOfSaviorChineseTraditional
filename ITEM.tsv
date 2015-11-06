@@ -1249,7 +1249,7 @@ ITEM_20150317_001248	Prima 鎧甲 護甲
 ITEM_20150317_001249	Tomb 手套 
 ITEM_20150317_001250	Tomb 皮甲 手套 
 ITEM_20150317_001251	Tomb 護手 
-ITEM_20150317_001252	Walker 
+ITEM_20150317_001252	行者之鞋 
 ITEM_20150317_001253	For Mine 護甲 
 ITEM_20150317_001254	Crafted by a 圖紙 resulting from hundreds of years worth of miners' experience and wisdom. 
 ITEM_20150317_001255	雷厄娜 褲子 
@@ -1265,10 +1265,10 @@ ITEM_20150317_001264	Vine 靴子
 ITEM_20150317_001265	Vine 褲子 
 ITEM_20150317_001266	Vine 護脛 
 ITEM_20150317_001267	Saint 長袍 
-ITEM_20150317_001268	Soul Chaser 手套 
-ITEM_20150317_001269	Soul Chaser 靴子 
-ITEM_20150317_001270	Soul Chaser 褲子 
-ITEM_20150317_001271	Soul Chaser 護甲 
+ITEM_20150317_001268	靈魂追捕者 手套 
+ITEM_20150317_001269	靈魂追捕者 靴子 
+ITEM_20150317_001270	靈魂追捕者 褲子 
+ITEM_20150317_001271	靈魂追捕者 護甲 
 ITEM_20150317_001272	骨頭 護手 
 ITEM_20150317_001273	骨頭 護脛 
 ITEM_20150317_001274	骨頭 短裙 
@@ -1282,7 +1282,7 @@ ITEM_20150317_001281	羅戈斯 盔甲
 ITEM_20150317_001282	羅戈斯 長袍 
 ITEM_20150317_001283	風行者 
 ITEM_20150317_001284	澤凱瑞爾之心
-ITEM_20150317_001285	Hydra 束褲 
+ITEM_20150317_001285	九頭蛇 束褲 
 ITEM_20150317_001286	Banshee 面紗 
 ITEM_20150317_001287	Top [Ghost] 
 ITEM_20150317_001288	Empty_Neck 
@@ -1566,7 +1566,7 @@ ITEM_20150317_001565	Ginkgo 葉片
 ITEM_20150317_001566	Easily found during autumn. It may smell like the Ginkgo fruit. 
 ITEM_20150317_001567	Tiger Swallowtail 
 ITEM_20150317_001568	Experience the sensation of Tiger Swallowtail landing on your head. 
-ITEM_20150317_001569	Eagle 羽毛 
+ITEM_20150317_001569 老鷹羽毛 
 ITEM_20150317_001570	Can be used as a writing tool if needed. 
 ITEM_20150317_001571	Muscharia Hat 
 ITEM_20150317_001572	A mushroom might grow on your head. 
@@ -1600,7 +1600,7 @@ ITEM_20150317_001599	Rosa Rugosa
 ITEM_20150317_001600	Smells very pleasant. 
 ITEM_20150317_001601	羽毛帽 
 ITEM_20150317_001602	Don't mind the 羽毛 being larger than the hat. 
-ITEM_20150317_001603	Maple 葉片 
+ITEM_20150317_001603	楓葉 
 ITEM_20150317_001604	Head decoration made to look like a maple leaf. Keep away from fire. 
 ITEM_20150317_001605	Red Tassel Hat 
 ITEM_20150317_001606	An ornate hat with tassels. Used sometimes by a high ranking official or by reputable people. 
@@ -2441,7 +2441,7 @@ ITEM_20150317_002440	Obtained from Fishermen.
 ITEM_20150317_002441	漁夫 核心 
 ITEM_20150317_002442	Kitchen Knife 
 ITEM_20150317_002443	Dented kitchen knife. Obtained from Brown Zigris. 
-ITEM_20150317_002444	Large Hook 
+ITEM_20150317_002444	巨大的鉤子
 ITEM_20150317_002445	If you don't need a hook, you can melt this to craft something else. Obtained from Green Puragis. 
 ITEM_20150317_002446	Banshee Spirit Matter 
 ITEM_20150317_002447	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Banshees. 
@@ -2547,7 +2547,7 @@ ITEM_20150317_002546	Unbelievably lightweight. Obtained from Banshees.
 ITEM_20150317_002547	Velwriggler 羽毛 
 ITEM_20150317_002548	Violet 葉片 
 ITEM_20150317_002549	Obtained from Rafflies. 
-ITEM_20150317_002550	Red 瓦布 Token 
+ITEM_20150317_002550	紅色瓦布 Token 
 ITEM_20150317_002551	Obtained from Red 瓦布 Raiders. 
 ITEM_20150317_002552	Beeteros 葉片 
 ITEM_20150317_002553	Obtained from Beeteroses. 
@@ -2610,7 +2610,7 @@ ITEM_20150317_002609	The main horn has smaller horns around it. Obtained from Co
 ITEM_20150317_002610	Cockatrice 皮甲 
 ITEM_20150317_002611	Suitable for crafting armor due to its stiffness. Obtained from Cockatrices. 
 ITEM_20150317_002612	Cockatrice 羽毛 
-ITEM_20150317_002613	A shiny 羽毛. Obtained from Cockatrices. 
+ITEM_20150317_002613	一個閃亮的羽毛. Obtained from Cockatrices. 
 ITEM_20150317_002614	Colimen Flower 
 ITEM_20150317_002615	Obtained from Colimens. 
 ITEM_20150317_002616	Colitile Feeler 
@@ -2639,8 +2639,8 @@ ITEM_20150317_002638	Obtained from Flibos.
 ITEM_20150317_002639	Pino 的莖 
 ITEM_20150317_002640	最好別吃. Obtained from Pinos. 
 ITEM_20150317_002641	Hamming 葉片 
-ITEM_20150317_002642	High 瓦布 Cross Stick 
-ITEM_20150317_002643	High 瓦布 Token 
+ITEM_20150317_002642	高等 瓦布 Cross Stick 
+ITEM_20150317_002643	高等 瓦布 Token 
 ITEM_20150317_002644	Obtained from High 瓦布. 
 ITEM_20150317_002645	Hallowventer 手骨 
 ITEM_20150317_002646	更像武器個手骨. Obtained from Hallowventers. 
@@ -2808,7 +2808,7 @@ ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {
 ITEM_20150317_002808	克萊佩達 傳送石
 ITEM_20150317_002809	一塊可以把你傳送到克萊佩達的石頭. {nl}右鍵點擊使用. 冷卻 : 20 分鐘
 ITEM_20150317_002810	晶礦解封卷軸 1
-ITEM_20150317_002811	Quest Item 
+ITEM_20150317_002811	任務物品 
 ITEM_20150317_002812	晶礦解封卷軸 2 
 ITEM_20150317_002813	邪靈祭司娃娃 
 ITEM_20150317_002814	Magic catalyst used by the 邪靈祭司s. 邪靈祭司s craft their own 邪靈祭司 doll for a better spiritual magic effect. 
@@ -3214,7 +3214,7 @@ ITEM_20150317_003213	Corpse Relics
 ITEM_20150317_003214	These relics might help identify the dead bodies. 
 ITEM_20150317_003215	Sword Piece 
 ITEM_20150317_003216	This piece fits into the Chipped Sword. 
-ITEM_20150317_003217	Wood 
+ITEM_20150317_003217	木頭 
 ITEM_20150317_003218	Wood picked from the wood pile by Cahill. 
 ITEM_20150317_003219	Strong 樹蛙 皮甲. 
 ITEM_20150317_003220	This is used for various leather products.  
@@ -4342,18 +4342,18 @@ ITEM_20150401_004341	卓越 鱗片 底褲
 ITEM_20150401_004342	卓越 鱗片 鎖子甲 
 ITEM_20150401_004343	Regal 手套 
 ITEM_20150401_004344	Regal 靴子 
-ITEM_20150401_004345	Old 硬質 皮甲 手套 
-ITEM_20150401_004346	Old 硬質 皮甲 靴子 
-ITEM_20150401_004347	Old 硬質 皮甲 褲子 
-ITEM_20150401_004348	Old 硬質 皮甲 鎧甲
-ITEM_20150401_004349	Old 鎖鏈 手套 
-ITEM_20150401_004350	Old 鎖鏈 靴子 
-ITEM_20150401_004351	Old 鎖鏈 褲子 
-ITEM_20150401_004352	Old 鎖甲 
-ITEM_20150401_004353	Old 鋼鐵 鎖鏈 手套 
-ITEM_20150401_004354	Old 鋼鐵 鎖鏈 靴子 
-ITEM_20150401_004355	Old 鋼鐵 鎖鏈 褲子 
-ITEM_20150401_004356	Old 鋼鐵 鎖甲 
+ITEM_20150401_004345	老舊 硬質 皮甲 手套 
+ITEM_20150401_004346	老舊 硬質 皮甲 靴子 
+ITEM_20150401_004347	老舊 硬質 皮甲 褲子 
+ITEM_20150401_004348	老舊 硬質 皮甲 鎧甲
+ITEM_20150401_004349	老舊 鎖鏈 手套 
+ITEM_20150401_004350	老舊 鎖鏈 靴子 
+ITEM_20150401_004351	老舊 鎖鏈 褲子 
+ITEM_20150401_004352	老舊 鎖甲 
+ITEM_20150401_004353	老舊 鋼鐵 鎖鏈 手套 
+ITEM_20150401_004354	老舊 鋼鐵 鎖鏈 靴子 
+ITEM_20150401_004355	老舊 鋼鐵 鎖鏈 褲子 
+ITEM_20150401_004356	老舊 鋼鐵 鎖甲 
 ITEM_20150401_004357	卓越 夾棉 褲子 
 ITEM_20150401_004358	卓越 夾棉 鎧甲
 ITEM_20150401_004359	卓越 Regal 手套 
@@ -4380,18 +4380,18 @@ ITEM_20150401_004379	佩帝米安 護手
 ITEM_20150401_004380	佩帝米安 護脛 
 ITEM_20150401_004381	佩帝米安 底褲 
 ITEM_20150401_004382	佩帝米安 護甲 
-ITEM_20150401_004383	Magician 手套 
-ITEM_20150401_004384	Magician 靴子 
-ITEM_20150401_004385	Magician 褲子 
-ITEM_20150401_004386	Magician 長袍s 
-ITEM_20150401_004387	Hunting 手套 
-ITEM_20150401_004388	Hunting 靴子 
-ITEM_20150401_004389	Hunting 褲子 
-ITEM_20150401_004390	Hunting 鎧甲
-ITEM_20150401_004391	Guard 護手 
-ITEM_20150401_004392	Guard 護脛 
-ITEM_20150401_004393	Guard 底褲 
-ITEM_20150401_004394	Guard 護甲 
+ITEM_20150401_004383	魔術師 手套 
+ITEM_20150401_004384	魔術師 靴子 
+ITEM_20150401_004385	魔術師 褲子 
+ITEM_20150401_004386 魔術師 長袍s 
+ITEM_20150401_004387 狩獵 手套 
+ITEM_20150401_004388	狩獵 靴子 
+ITEM_20150401_004389	狩獵 褲子 
+ITEM_20150401_004390	狩獵 鎧甲
+ITEM_20150401_004391	守護者 護手 
+ITEM_20150401_004392	守護者 護脛 
+ITEM_20150401_004393	守護者 底褲 
+ITEM_20150401_004394	守護者 護甲 
 ITEM_20150401_004395	Mage 手套 
 ITEM_20150401_004396	Mage 靴子 
 ITEM_20150401_004397	Mage 褲子 
@@ -8365,10 +8365,10 @@ ITEM_20151102_008364	Bow [Missile]
 ITEM_20151102_008365	Crossbow [Missile]
 ITEM_20151102_008366
 ITEM_20151102_008367	Pistol [Missile]
-ITEM_20151102_008368	Cannon2
-ITEM_20151102_008369	Cannon3
-ITEM_20151102_008370	Cannon4
-ITEM_20151102_008371	Cannon5
+ITEM_20151102_008368	火砲2
+ITEM_20151102_008369	火砲3
+ITEM_20151102_008370	火砲4
+ITEM_20151102_008371 火砲5
 ITEM_20151102_008372	Musket
 ITEM_20151102_008373	Musket [Missile]
 ITEM_20151102_008374	Musket2
@@ -8457,7 +8457,7 @@ ITEM_20151102_008456	Backpack
 ITEM_20151102_008457	Experiment Victim's Backpack
 ITEM_20151102_008458
 ITEM_20151102_008459
-ITEM_20151102_008460	Black Gem
+ITEM_20151102_008460	黑寶石
 ITEM_20151102_008461	
 ITEM_20151102_008462	Essence of the Demon
 ITEM_20151102_008463	Experiment Journal: Chapter 1
